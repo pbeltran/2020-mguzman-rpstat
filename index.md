@@ -16,7 +16,7 @@ widescreen: true
 
 ![](assets/qr.png){width=60%}
 
-[https://pbeltran.github.io/semhispabrasil2020](https://pbeltran.github.io/semhispabrasil2020)
+[https://pbeltran.github.io/2020-mguzman-rpstat](https://pbeltran.github.io/2020-mguzman-rpstat)
 
 # Introducción y marco teórico {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
@@ -199,14 +199,13 @@ Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational vi
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y Belén Giacomone) y poniendo un enlace a [https://pbeltran.github.io/semhispabrasil2020](https://pbeltran.github.io/semhispabrasil2020).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer y Belén Giacomone) y poniendo un enlace a [https://pbeltran.github.io/2020-mguzman-rpstat](https://pbeltran.github.io/2020-mguzman-rpstat).
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
 ## {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/semhispabrasil2020](https://github.com/pbeltran/semhispabrasil2020)
-
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/2020-mguzman-rpstat](https://github.com/pbeltran/2020-mguzman-rpstat)
 
 La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com).
 
