@@ -1,7 +1,7 @@
 ---
 title: A través de la resolución de problemas y uso del lenguaje en estadística
 subtitle:  
-author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> 13-26 de julio de 2020 <br> XI ESCUELA DE EDUCACIÓN MIGUEL DE GUZMÁN (2020) <br> Enseñar Matemáticas para una ciudadanía digital <br>  <img src="assets/logofespmrsme.jpg" align="center" style="padding-right:0px" height="60px"> <br>  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
+author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> 13-26 de julio de 2020 <br> XI ESCUELA DE EDUCACIÓN MIGUEL DE GUZMÁN (2020) <br> Enseñar Matemáticas para una ciudadanía digital <br>  <img src="assets/logofespmrsme.jpg" align="center" style="padding-right:0px" height="80px"> <br>  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
