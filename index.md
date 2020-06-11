@@ -1,7 +1,7 @@
 ---
-title: Algunas propuestas de aplicación de indicadores de idoneidad didáctica en probabilidad
+title: A través de la resolución de problemas y uso del lenguaje en estadística
 subtitle:  
-author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> & <a href="https://scholar.google.es/citations?user=Fwvwfg8AAAAJ&hl=es&oi=ao">Belén Giacomone</a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a>   <a href="https://twitter.com/giacoss">@giacoss</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/logosm.png" align="center" style="padding-right:0px;" height="40px"> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> Mayo de 2020 <br> Seminario Hispano Brasileño de Educación Estadística. Facultad de Ciencias de la Educación. Universidad de Granada
+author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/logosm.png" align="center" style="padding-right:0px;" height="40px"> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 13-26 de julio de 2020 <br> XI ESCUELA DE EDUCACIÓN MIGUEL DE GUZMÁN (2020) <br> Enseñar Matemáticas para una ciudadanía digital 
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
