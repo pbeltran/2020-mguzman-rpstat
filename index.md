@@ -1,7 +1,7 @@
 ---
 title: A través de la resolución de problemas y uso del lenguaje en estadística
 subtitle:  
-author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> 13-26 de julio de 2020 <br> XI ESCUELA DE EDUCACIÓN MIGUEL DE GUZMÁN (2020) <br> Enseñar Matemáticas para una ciudadanía digital <br>  <img src="assets/logofespmrsme.jpg" align="center" style="padding-right:0px" height="80px"> <br>  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
+author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> CPI Val de la Atalaya y Universidad de Zaragoza <br> 13-26 de julio de 2020 <br> XI Escuela de Educación Miguel De Guzmán (2020) <br> Enseñar Matemáticas para una ciudadanía digital <br>  <img src="assets/logofespmrsme.jpg" align="center" style="padding-right:0px" height="80px"> <br>  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="30px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -9,181 +9,48 @@ aspectratio: 169
 widescreen: true
 ---
 
-
 # Acceso a la presentación {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
 ## {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
-![](assets/qr.png){width=60%}
+![](assets/qr.png){width=45%}
 
 [https://pbeltran.github.io/2020-mguzman-rpstat](https://pbeltran.github.io/2020-mguzman-rpstat)
 
-# Introducción y marco teórico {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
+# Introducción {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
+
+## Contenidos del taller
+
+> Se trata de explorar una propuesta virtual que, con sus limitaciones evidentes, intenta ser coherente con un enfoque de enseñanza y aprendizaje a través de la resolución de problemas.
+
+1. Esta introducción, que continúa exponiendo brevemente qué es esto del _a través_ de la resolución de problemas.
+2. Una actividad sobre dispersión, donde la tarea a completar es grabar un vídeo de 3-5 minutos.
+3. ¿Cuál es el que no encaja? Aquí la tarea consiste en diseñar un WODB, proponerlo en el foro y contestar, por lo menos, a tres compañeros.
+4. Gráficos que se revelan poco a poco. La tarea es diseñar una actividad de este tipo.
 
 
-## Idoneidad didáctica
+## Enseñanza a través de la resolución de problemas
 
-Grado en que un proceso de instrucción reúne ciertas características que permiten calificarlo como adecuado para la adaptación entre los significados personales obtenidos por los alumnos (aprendizaje) y los significados institucionales, ya sean pretendidos o implementados (enseñanza), considerando la influencia del entorno (Godino, 2013). 
-
-
-## Idoneidad didáctica
-
-![](assets/images/idoneidad.png){width=65%}
-
-Fuente: Godino (2013).
+Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) para que emerja el contenido matemático. Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente 
 
 
-## Faceta epistémica
+# Una actividad sobre dispersión
 
-:::incremental
-- La faceta epistémica se refiere, en términos de Breda et al., (2017) a la enseñanza de una buena matemática.
-- La idoneidad epistémica se considera mayor en la medida que los contenidos pretendidos o implementados representan bien a los contenidos de referencia. Dos criterios fundamentales (Godino, 2013):
-	- La presencia de diversos significados del contenido correspondiente y su interconexión.
-	- El reconocimiento de la diversidad de objetos primarios y procesos implicados para los diversos significados.
-:::
+## Un homenaje a los materiales de finales de los 90
 
+La actividad que presentamos 
 
-## Faceta epistémica
+# ¿Cuál es el que no encaja? (WODB)
 
-Las **situaciones-problemas** tienen un rol central en el EOS, de modo que los objetos matemáticos participan y emergen de los sistemas de prácticas matemáticas.
-
-. . .
-
->Se trata de dar una respuesta satisfactoria a la cuestión del significado de los objetos matemáticos
-
-:::incremental
-- ¿Qué es la media?
-- ¿Qué es el número?
-:::
-
-## Faceta epistémica
-
-Bajo esta perspectiva ontosemiótica, la actividad matemática se puede describir y analizar a partir de una ontología explícita de objetos (Godino et al., 2007):
-
-:::incremental
-- **Lenguajes**: en sus diversos registros y representaciones, natural, gestual, simbólico, gráfico, etc..
-- **Situaciones-problemas**: aplicaciones intra y extra-matemáticas, ejercicios, problemas.
-- **Reglas**:
-	- _Conceptos-definición_: conceptos introducidos mediante definiciones o descripciones, proporcionalidad, función, etc.
-	- _Proposiciones_: enunciados sobre conceptos-definición.
-	- _Procedimientos_: algoritmos, operaciones, técnicas de cálculo.
-- **Argumentos**: enunciados usados para validar o explicar las proposiciones y procedimientos.
-:::
+## ¿Qué esto de los WODB?
+WODB viene de...
 
 
-## Criterios de idoneidad
+# Gráficos que se revelan lentamente
 
-:::incremental
-- Para cada faceta Godino (2013) propone un sistema de criterios generales para que sean consideradas de calidad. 
-- Breda, Pino-Fan, & Font (2017) señalan que estos criterios de idoneidad didáctica son potentes herramientas para organizar la reflexión y evaluación de un proceso de instrucción.
-	- Es conveniente utilizarlos para analizar y valorar los vídeos de la muestra considerada. 
-- Santos (2018) propone un modelo para valorar vídeos educativos de matemáticas:
-	- Idoneidad didáctica (EOS).
-	- Lógica difusa para considerar la evaluación mediante una opinión de las comunidades de interés
-	- Métodos multicriterio (TOPSIS), para ordenar los datos obtenidos y tomar decisiones a partir de ellos.
-:::
+## Slow Reveal Graphs
 
-## Criterios generales de idoneidad epistémica
-
-Siguiendo a Godino (2013)
-
-> Situaciones-problema
-
-- Se presenta una muestra representativa y articulada de situaciones de contextualización, ejercitación y aplicación
-- Se proponen situaciones de generación de problemas (problematización)
-
-##
-
-> Lenguajes
-
-- Uso de diferentes modos de expresión matemática, traducciones y conversiones entre ellos. 
-- Nivel del lenguaje adecuado a los niños a que se dirige.
-- Se proponen situaciones de expresión matemática e interpretación.
-
-##
-
-> Reglas (definiciones, procedimientos, propiedades)
-
-- Las definiciones y procedimientos son claros y correctos, y estánadaptados al nivel educativo al que se dirigen.
-- Se presentanlos enunciados y procedimientos fundamentales del tema para el nivel educativo dado.
-- Se proponen situaciones donde los alumnos tengan que generar o negociar definiciones proposiciones o procedimientos.
-
-## 
-
-> Argumentos
-
-- Las explicaciones, comprobaciones y demostraciones son adecuadas al nivel educativo a que se dirigen.
-- Se promueven situaciones donde el alumno tenga que argumentar.
-
-> Relaciones
-
-- Los objetos matemáticos (problemas, definiciones, pro- posiciones, etc.) se relacionan y conectan entre sí. 
-- Se identifican y articulan los diversos significados de los objetos que intervienen en las prácticas.
-
-
-# Propuesta y método de investigación {data-background-image="assets/images/class.jpg" data-background-opacity="0.18"}
-
-## GVID para probabilidad
-
-En Beltrán-Pellicer, Godino y Giacomone (2018) se obtuvo una propuesta de indicadores de idoneidad didáctica para procesos de enseñanza y aprendizaje de la probabilidad. 
-
-Los indicadores correspondientes a la faceta epistémica se muestran en la Tabla 1 de nuestra [comunicación](https://tierradenumeros.com/publication/202005-semhispabra-idoneidad-probabilidad/202005-semhispabra-idoneidad-probabilidad.pdf).
-
-
-## Aplicaciones de este tipo de indicadores
-
-> Evaluación de vídeos en línea sobre contenidos concretos
-
- En [Beltrán-Pellicer, Giacomone y Burgos (2018)](https://tierradenumeros.com/publication/201810-cye-online-videos/201810-cye-online-videos.pdf) aplicamos una GVID específica para repartos propocionales. 
- 
-
-## ¿Por qué interesarnos en esto? {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
-
-- El fenómeno de los vídeos educativos alojados en plataformas en línea no es nuevo.
-- YouTube™ es aceptado por los estudiantes como medio para el aprendizaje de las matemáticas (Ramírez, 2010). 
-- Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el **flipped learning** (Davies, Dean, & Ball, 2013).
-
-> Es necesario que las **didácticas específicas** indaguen sobre el grado de adecuación de estas propuestas de enseñanza-aprendizaje, asegurando de esta forma que la tecnología esté alineada con los objetivos de aprendizaje (Turney, Robinson, Lee, & Soutar, 2009)
-
-## 
-  
-Los resultados del estudio sobre vídeos de repartos fueron muy interesantes:
- 
-- Presentan diversos grados de idoneidad: los vídeos más populares no tienen por qué ser los más adecuados. 
-- Muchos de estos vídeos presentan errores e imprecisiones. 
-- Diversidad de significados en torno a un mismo objeto matemático, que debe ser tenida en cuenta por los docentes.
-
-
-## Limitaciones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
-
-:::incremental
-- Complejidad a la hora de cuantificar el grado de idoneidad epistémica de cada vídeo.
-- La reducción a un simple número conlleva una pérdida de información. 
-- En este trabajo se ha calculado el grado de idoneidad de forma similar a lo realizado por otros autores (Learning Mathematics for Teaching Project, 2011). 
-:::
-
-. . .
-
->Los valores obtenidos revelan una baja idoneidad epistémica, que concuerda con resultados de estudios similares para otros campos del conocimiento, como las ciencias experimentales y sociales (Bortoliero & León, 2017; Tan, 2013). 
-
-
-## Aplicaciones de este tipo de trabajos
-
-- Este tipo de análisis se puede utilizar como experiencia formativa en la formación de profesores (Burgos, Beltrán-Pellicer y Godino, 2020).
-- Realizar estudios similares sobre vídeos orientados a la enseñanza de contenidos de probabilidad y estadística. 
-- Comparar los resultados de dichas investigaciones con los obtenidos en el ámbito de la proporcionalidad. 
-
-
-# Conclusiones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
-
-## Conclusiones {data-background-image="assets/images/conclusiones.jpg" data-background-opacity="0.1"}
-
-- La TID ofrece un campo activo de trabajo que puede combinarse con metodologías de formación docente y crecimiento profesional, como el estudio de clases (Hummes, Font y Breda, 2019). 
-- Interés en analizar vídeos educativos online sobre contenidos específicos de probabilidad y estadística. 
-	- Es un recurso utilizado por el alumnado como refuerzo o ayuda al estudio.
-	- Son un elemento clave en algunas propuestas metodológicas como la clase invertida. 
-
-> Estos estudios se complementarían con el diseño de experiencias con profesores en formación.  
+Esta actividad...
 
 
 # Créditos y referencias {data-background-image="assets/images/credits.jpg" data-background-opacity="0.1"}
