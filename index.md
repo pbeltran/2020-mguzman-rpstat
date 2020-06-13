@@ -177,7 +177,7 @@ _Nota: para entendernos, son sucesos simples._
 - Otra, empleando una pizarras colaborativas online.
 - Si se hacen videoconferencias, es una actividad muy interesante, compartiendo el WODB y dejando que el alumnado participe vía chat o con el micrófono.
 
-## Tarea a realizar en el taller
+## Tarea a realizar en el taller (actividad D1)
 
 1. Diseña un WODB sobre estadística (diagramas de barras, de dispersión, distribuciones, lo que quieras) ayudándote de la tabla que hemos comentado.
 2. Abre un tema en el foro de la actividad, donde saludes y adjuntes la imagen de tu WODB. Procura echar un vistazo a las que ya hay puestas para evitar repeticiones.
@@ -192,7 +192,7 @@ _Nota: para entendernos, son sucesos simples._
 La actividad que presentamos 
 
 
-
+## Tarea a realizar en el taller (actividad D2)
 
 
 # D3: Dos tipos de actividades sobre gráficos estádisticos
@@ -207,6 +207,8 @@ Slow Reveal Graphs
 
 Esta actividad...
 
+
+## Tarea a realizar en el taller (actividad D3)
 
 
 
