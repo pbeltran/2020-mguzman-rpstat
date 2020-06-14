@@ -87,6 +87,12 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 - [¿Cómo se puede hacer esto a distancia?]
 - [Tarea a realizar en el taller (actividad D1)]
 
+ :warning: 
+
+>Si es la primera vez que pasas por aquí, léelos en orden, que hay algún spoiler 
+
+
+
 ## ¿Qué esto de los WODB? {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 
 ![](assets/images/wodb_logo.jpg){width=25%}
@@ -218,6 +224,10 @@ _Nota: para entendernos, son sucesos simples._
 - [Una propuesta de gestión a distancia]
 - [Tarea a realizar en el taller (actividad D2)]
 
+ :warning: 
+
+>Si es la primera vez que pasas por aquí, léelos en orden, que hay algún spoiler 
+
 ## Un homenaje a los materiales de los 90 {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
 
 >Durante los 90 se editaron excelentes materiales didácticos, algunos desde las consejerías de educación, que buscaban la renovación pedagógica. Más que tratarse de libros de texto al uso, contenían una secuencia de actividades adaptable, junto con una justificación para los docentes, a quienes trataban como profesionales. 
@@ -252,8 +262,12 @@ Francesc Borrell Thió, Anna Pol Masjoan y Elisabet Saguer Canadell).
 
 ::: {.column width="45%"}
 
+:grey_question:
+
 - Si va perdiendo de 8 puntos.
 - Si va ganando de 2 puntos.
+
+🤔  
 
 :::
 ::::::::::::::
@@ -512,7 +526,7 @@ Estas puntuaciones podrían servir en un esquema de calificación. Si se observa
 El alumnado tiene que aprender a hacer bien estas autoevaluaciones. 
 
 - En las videoconferencias (en el caso de emergencia) se comenta lo que ponen. 
-- No vale: no lo entiendo o al principio mal y luego bien.
+- No vale: "no lo entiendo" o "al principio mal y luego bien".
 
 ## Tarea a realizar en el taller (actividad D2){data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
 
@@ -535,6 +549,10 @@ Al hacer este tipo de actividades, la clave es la puesta en común.
 - [Gráficos que se revelan lentamente]
 - [¿Hablar sobre gráficos a distancia?]
 - [Tarea a realizar en el taller (actividad D3)]
+
+ :warning: 
+
+>Si es la primera vez que pasas por aquí, léelos en orden, que hay algún spoiler 
 
 ## ¿Qué pasa con este gráfico? {data-background-image="assets/images/stats.jpg" data-background-opacity="0.1"}
 
@@ -709,7 +727,7 @@ Elige uno de los dos tipos de actividades y entrega un documento pdf
 
 ::: {.column width="45%"}
 
->¿Qué pasa con este gráfico?
+> :open_file_folder: ¿Qué pasa con este gráfico?
 
 - Diseña una actividad de este tipo a partir de un tema de actualidad.
 - Para ello, busca o construye un gráfico que dé lugar a una buena charla de aula.
@@ -719,7 +737,7 @@ Elige uno de los dos tipos de actividades y entrega un documento pdf
 
 ::: {.column width="45%"}
 
->Gráficos que se revelan poco a poco
+> :open_file_folder: Gráficos que se revelan poco a poco
 
 - Diseña una actividad de este tipo, eligiendo un gráfico que de juego a ser descubierto poco a poco.
 - En tu documento, incluye imágenes de cómo se va revelando el gráfico y posibles planteamientos del alumnado.
