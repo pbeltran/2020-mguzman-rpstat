@@ -530,14 +530,31 @@ El alumnado tiene que aprender a hacer bien estas autoevaluaciones.
 
 ## Tarea a realizar en el taller (actividad D2){data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
 
-Al hacer este tipo de actividades, la clave es la puesta en común.
+Al hacer este tipo de actividades, la clave es la puesta en común. Por eso, la actividad consiste en preparar una, muy breve.
 
-- En este [zip]() tienes diversas producciones de alumnos de esta actividad.
-- Graba un breve vídeo de 3-5 minutos de duración (no hace falta que aparezcas, es suficiente con la voz) donde comentes algunas de esas producciones. 
-- Recuerda que suponemos que es un vídeo dirigido a los alumnos que han realizado esas producciones; es decir, una puesta en común.
-- Puede ser, por ejemplo, para poner en común la introducción del problema y la inspección visual de la dispersión.
-- Utiliza el software de captura que quieras, no tiene por qué editarse el vídeo. Si tienes alguna duda técnica al respecto, podemos comentarla en el foro de dudas.
-- Comparte el vídeo a través de la plataforma que quieras (por ejemplo, YouTube, de manera privada, si lo deseas) y pon la dirección del vídeo en la entrega.
+>En este [zip](assets/files/producciones.zip) tienes diversas producciones de alumnos de esta actividad. Encontrarás:
+
+1. Recortes de la introducción de la inspección visual de la dispersión.
+2. Sobre el rango.
+3. Sobre la desviación media.
+4. Sobre la varianza y la desviación típica.
+5. Resúmenes y anotaciones varias de los alumnos.
+
+
+## Tarea a realizar en el taller (actividad D2) (2) {data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
+
+- Graba un breve vídeo de 3-5 minutos de duración (no hace falta que aparezcas, es suficiente con la voz) donde comentes algunas de esas producciones. Hay unas que dan más juego que otras.
+- Recuerda que suponemos que es un vídeo dirigido a los alumnos que han realizado esas producciones.
+- Puede ser, por ejemplo, para poner en común la introducción del problema y la inspección visual de la dispersión. Comenta tipos de anotaciones, falta de las mismas, errores, vocabulario, cualquier cosa que te llame la atención y cubra la diversidad de respuestas.
+- Al hacerlo virtualmente, esta actividad se habría partido en dos puestas en común. No obstante, puedes mezclar producciones de varios puntos. No es obligatorio usar todas.
+
+## Cuestiones técnicas de cara a la tarea {data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
+
+- Utiliza el software de captura que quieras.
+- No tienes que editar el vídeo para que quede más profesional.
+- Si tienes alguna duda técnica al respecto, podemos comentarla en el foro de dudas.
+- Comparte el vídeo a través de la plataforma que quieras (por ejemplo, YouTube, de manera privada, si lo deseas). 
+- Pon la dirección del vídeo en el campo de texto de la entrega.
 
 
 
