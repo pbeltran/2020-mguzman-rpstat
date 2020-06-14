@@ -21,7 +21,7 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 
 # Introducción {data-background-image="assets/intro.jpg" data-background-opacity="0.18"}
 
-## Contenidos del taller
+## Contenidos del taller {data-background-image="assets/intro.jpg" data-background-opacity="0.15"}
 
 > Se trata de explorar una propuesta virtual que, con sus limitaciones evidentes, intenta ser coherente con un enfoque de enseñanza y aprendizaje a través de la resolución de problemas.
 
@@ -31,40 +31,63 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 4. Charlas de aula sobre gráficos estadísticos: qué pasa con este gráfico y gráficos que se revelan poco a poco. Aquí hay que elegir uno de los tipos de actividad para hacer la tarea, que consiste en entregar un pequeño documento.
 
 
-## Enseñanza a través de la resolución de problemas
+## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
 
-Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) para que emerja el contenido matemático. Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente 
+:::::::::::::: {.columns}
 
+::: {.column width="25%"}
 
-##
-
-De hecho, también hay consenso en que lo ideal es vertebrar los contenidos a través de la resolución de problemas. English y Gainsburg (2016) se expresan así:
-
->Hemos descrito un debate de décadas sobre la enseñanza de la resolución de problemas frente a la enseñanza a través de la resolución de problemas. El conocimiento del contenido matemático en sí mismo casi nunca es una demanda explícita por parte de los empresarios. Ahora bien, estos desean trabajadores que sean resolutores eficientes de problemas, lo que implícitamente conduce a los centros educativos a enseñar la resolución de problemas como un fin en sí mismo. 
-
-::: notes
-
-Empresarios, aquí podríamos hablar de lo que es una visión utilitarista y otra más humanista. Pero eso es otra historia.
+![](assets/images/andamio.jpg){width=100%}
 
 :::
 
+::: {.column width="70%"}
 
-##
+- Sintetizando mucho, este enfoque consiste en utilizar problemas (en sentido amplio, tareas o situaciones-problema) para que emerja el contenido matemático. 
+- Mediante el trabajo en pequeños grupos y las posteriores puestas en común, el docente proporciona un andamiaje para profundizar en dichos contenidos, siempre a partir de los significados personales de los alumnos.
 
->Por lo tanto, a pesar de la reciente tendencia de la comunidad de educación matemática hacia la resolución de problemas como vehículo para el aprendizaje del contenido matemático, recomendamos cumplir ambos objetivos.
+:::
 
-
-##
-
->Abogamos por reestructurar este debate para preguntar, en cambio, cómo podemos diseñar problemas que sean lo suficientemente exigentes desde el punto de vista cognitiva, como para fomentar tanto el contenido matemático significativo como las competencias de resolución de problemas. Para empezar, podríamos considerar la redefinición de la resolución de problemas como una experiencia en la que el resolutor o un grupo cooperativo "necesita desarrollar una estrategia matemática más productiva de pensar sobre la situación dada" (Lesh y Zawojewski, 2007, p. 782).
+::::::::::::::
 
 
+
+## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+
+- No es lo mismo enseñar sobre resolución de problemas (RP) que a través de la resolución de problemas.
+- Ya hemos tratado en qué consiste el _a través_. Enseñar _sobre_ RP trata de enseñar heurísticas y estrategias. 
+- English y Gainsburg (2016) escriben sobre la necesidad de conjugar ambas vertientes. 
+- Gaulin (2001) menciona además la enseñanza _para_ la RP. Esta opción es la habitual de los libros de texto, donde se presenta primero la "teoría" y luego se aplica en unos ejercicios. Con suerte, al final, el alumno entra en contacto con buenos problemas de aplicación.
+
+## Enseñanza a través de la resolución de problemas {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+
+>English y Gainsburg (2016) señalan que la cuestión de verdad es...
+
+- ¿Cómo podemos diseñar problemas que sean lo suficientemente exigentes desde el punto de vista cognitivo, como para fomentar tanto el contenido matemático significativo como las competencias de resolución de problemas?
+- Para empezar, podríamos considerar la redefinición de la RP como una experiencia en la que el resolutor o un grupo cooperativo "necesita desarrollar una estrategia matemática más productiva de pensar sobre la situación dada" (Lesh y Zawojewski, 2007, p. 782).
+
+
+## Actividades del taller {data-background-image="assets/clase.jpg" data-background-opacity="0.12"}
+
+- La actividad que más se alinea con la enseñanza a través de la resolución de problemas es la D2. Podría discutirse si se encuentra cercana al aprendizaje por descubrimiento guiado, pero lo de menos son las etiquetas. La cuestión es que la secuencia se construye a partir de las producciones del alumnado, quienes se enfrentan a una situación-problema.
+- Tanto el WODB de la D1 (recomendamos empezar por ahí) como las actividades sobre gráficos de la D3 están más cercanos a la indagación (inquiry), que comaprte un aire de familia con la enseñanza a través de la RP. Sirven como pretexto para construir charlas de aula. Movilizan mucho lenguaje y conocimientos previos y fomentan la curiosidad. 
+
+. . .
+
+> :small_orange_diamond: ¡¡Manos a la obra!! :small_orange_diamond:
 
 
 
 # D1: ¿Cuál es el que no encaja? (WODB) {data-background-image="assets/clase.jpg" data-background-opacity="0.18"}
 
-## ¿Qué esto de los WODB? {data-background-image="assets/clase.jpg" data-background-opacity="0.18"}
+## Contenidos del D1 (WODB) {data-background-image="assets/clase.jpg" data-background-opacity="0.1"}
+
+- [¿Qué esto de los WODB?]
+- [¿Cómo diseñar un WODB?]
+- [¿Cómo se puede hacer esto a distancia?]
+- [Tarea a realizar en el taller (actividad D1)]
+
+## ¿Qué esto de los WODB? {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 
 ![](assets/images/wodb_logo.jpg){width=25%}
 
@@ -76,7 +99,7 @@ Desde entonces, el uso de este recurso se ha popularizado y ha aparecido una web
 
 [www.wodb.ca](https://wodb.ca/)
 
-## Vamos a pensar un poquito
+## Vamos a pensar un poquito {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 
 >¿Cuál crees que es el que no encaja?
 
@@ -109,7 +132,7 @@ No hagas trampa y no continúes hasta que hayas pensado algo
 :::
 ::::::::::::::
 
-## Un ejemplo de charla de "aula"
+## Un ejemplo de charla de "aula"  {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 :::::::::::::: {.columns}
 
 ::: {.column width="55%"}
@@ -135,7 +158,7 @@ Imagen: [www.wodb.ca](http://wodb.ca/)
 
 [Enlace al vídeo](https://www.youtube.com/watch?v=5jNRjAtb5pc)
 
-## Un ejemplo de probabilidad
+## Un ejemplo de probabilidad  {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 
 :::::::::::::: {.columns}
 
@@ -159,7 +182,7 @@ Esto es solo un ejemplo. Un mismo WODB, como este, puede proponerse desde infant
 ::::::::::::::
 
 
-## ¿Cómo diseñar un WODB?
+## ¿Cómo diseñar un WODB?  {data-background-image="assets/clase.jpg" data-background-opacity="0.11"}
 
 Un buen WODB exige una pequeña labor de diseño. Hunter (2018), propone usar una tabla, donde se especifican cuatro propiedades, de manera que cada elemento del WODB ha de cumplir una, y solo una. Pone como ejemplo el WODB de de la diapositiva anterior:
 
@@ -172,7 +195,7 @@ Un buen WODB exige una pequeña labor de diseño. Hunter (2018), propone usar un
 
 _Nota: para entendernos, son sucesos simples._
 
-## ¿Cómo se puede hacer esto a distancia?
+## ¿Cómo se puede hacer esto a distancia? {data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
 
 - Está claro que se pierde mucha interacción en una enseñanza a distancia.
 - Una manera es plantear un foro como el que sugeriremos para la tarea. 
@@ -188,6 +211,12 @@ _Nota: para entendernos, son sucesos simples._
 
 
 # D2: Una actividad sobre dispersión {data-background-image="assets/images/encesta1.gif" data-background-opacity="0.22"}
+
+## Contenidos del D2 (dispersión) {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+- [Un homenaje a los materiales de los 90 ]
+- [Una propuesta de gestión a distancia]
+- [Tarea a realizar en el taller (actividad D2)]
 
 ## Un homenaje a los materiales de los 90 {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
 
@@ -259,33 +288,248 @@ Francesc Borrell Thió, Anna Pol Masjoan y Elisabet Saguer Canadell).
 Porcentaje de aciertos de tiro exterior de cinco jugadoras durante los últimos diez partidos
 
 
-## Una propuesta de gestión a distancia {data-background-image="assets/images/basket.jpg" data-background-opacity="0.12"}
+## ¿Buen rendimiento? ¿En qué partidos? {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+La primera cuestión sirve para entrar en calor y ver que hemos entendido el contexto, así como para intuir que la decisión no es tan sencilla. 
+
+>¿En qué partidos podemos decir que Alba tiene un buen rendimiento?
+
+- ¿En qué partidos consigue Alba un % por encima de sus compañeras? ¿Solo en los que sea la mejor? ¿O en los que esté por encima de la media?
+- Ya que hablamos de la media, ahora vamos a calcular la media de los porcentajes de acierto para cada jugadora. 
+- ¿Qué observamos? Pues que todas las jugadoras... ¡tienen la misma media!
+
+![](assets/images/tabladatosconmedia.jpg){width=100%}
+
+## Inspección visual de la dispersión {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+>¿Qué hacer? El entrenador está en un aprieto.
+
+:::::::::::::: {.columns}
+
+::: {.column width="55%"}
+Ya que tenemos datos, vamos a tratar de representarlos gráficamente, a ver si con eso podemos decir algo. 
+
+Se les proporciona a los alumnos el diagrama de puntos de una jugadora a modo de ejemplo y se les deja trabajar y discutir a qué jugadora sacar.
+:::
+
+::: {.column width="40%"}
+
+![](assets/images/diagrama2.jpg){width=80%}
+:::
+::::::::::::::
+
+Resulta que visualmente no se aprecia cuál es más regular, más fiable. En la puesta en común unos grupos defienden a Clara, otros a Sonia... Seguimos necesitando algo más.
+
+## Empezamos a medir la dispersión {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+Vamos ahora a medir, esto es, a asignar un número a cada jugadora, a cada uno de los diagramas de puntos. 
+
+>¿Qué podemos medir?
+
+En efecto, lo más fácil es calcular la anchura. Esto se llama rango. ¡Todas lo tienen muy parecido! María, quizás, un poco más alto...
+
+![](assets/images/rango2.jpg){width=80%}
+
+## ¿El rango es una buena medida de la dispersión? {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+
+- Pero… ¿qué pasaría con una jugadora que durante 8 días encestase el 58% de los tiros, pero un día le saliese malo y tuviese un 31% y otro día hiciese un gran partido con un 75% de acierto? 
+- ¿Cuál es su rango? ¿Su diagrama de puntos? 
+- ¿Es más o menos fiable que las anteriores?
+
+![](assets/images/rango1.jpg){width=65%}
+
+
+## ¿El rango es una buena medida de la dispersión? {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+¿Quién es más regular?
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+>Nueva jugadora
+
+![](assets/images/punki.gif){width=100%}
+:::
+
+::: {.column width="45%"}
+
+>Sonia
+
+![](assets/images/sonia.gif){width=100%}
+
+:::
+::::::::::::::
+
+## Necesitamos una nueva medida de la dispersión {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+Está claro entonces que el rango se queda corto y que necesitamos una medida mejor de la dispersión. No puede ser que una jugadora que tenga un rango de casi el doble sea más regular, fiable, menos dispersa. El rango, como medida, es una castaña.
+
+- Necesitamos algo mejor que el rango. Así que toca charla de aula a ver qué se puede hacer. ¿No había salido antes la media? 
+- Toca medir las desviaciones de cada jugadora respecto a la media. Sin embargo, al sumarlas ocurre algo ¿inesperado?
+
+![](assets/images/diferencias.gif){width=100%}
+
+
+## Una propiedad de la media {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+La suma de las diferencias respecto de la media sale siempre cero. Es una propiedad de la media. Tiene sentido, pues, considerar la distancia a la media y hacer un promedio. Así obtenemos la _desviación media_.
+
+Si ordenamos así a las jugadoras vemos que la menos regular es María (DM=7,8), y que las menos dispersas son Sonia y Clara (DM=5,4). En la puesta en común hablamos de qué significan ese 7,8 y esos 5,4.
+
+![](assets/images/desviacionesmedias.jpg){width=100%}
+
+
+
+## Sobre la desviación media {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+Ahora consideramos el caso de una jugadora, Berta, que ha estado lesionada durante 2 partidos. Durante los otros 8 partidos ha acumulado una cantidad de dispersión de 67. ¿Es más regular que María?
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+- Ninguna tarea está puesta al azar. Si dividimos 67 entre 10, obtendríamos una DM de 6,7, concluyendo que es más fiable Berta. Ahora, ¿hemos tenido en cuenta que no ha jugado dos partidos?
+- Ah, es que habrá que dividir para 8, ¿no? Entonces sale… 8,375, no es nada regular.
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/falla1.gif){width=100%}
+
+:::
+::::::::::::::
+
+## Introducimos la varianza {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+Y llegamos a la varianza. A los alumnos les hace gracia esta palabra. Toca proponer considerar los cuadrados de las desviaciones, como otra estrategia. Es un punto que, de entrada, puede parecer tener poco sentido, si ya tenemos la desviación media.
+
+Aparece un poco forzado en la secuencia, pero tiene alguna ventaja. Como que los datos que se alejen más de la media van a tener un peso algo mayor en la medida de la dispersión. En nuestro ejemplo, nos ayuda a desempatar entre Sonia y Clara como jugadoras más fiables.
+
+![](assets/images/varianzas.jpg){width=100%}
+
+## Desviación típica {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+La más regular, la menos dispersa, es Clara. A la hora de interpretar esa varianza de 49 y pico, ¿qué? Al ser desviaciones al cuadrado no podemos decir que lo normal es que se desvíe 49 de la media de acierto. Por eso hacemos la raíz cuadrada para obtener la desviación típica.
+
+![](assets/images/devtipica.jpg){width=100%}
+
+## Pero.. ¿qué es la dispersión? {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+Algunos alumnos se apuntan que anulamos el “efecto de elevar al cuadrado”. Señales de que vamos bien son:
+
+- Oye… ¿qué es la dispersión? ¿La varianza?
+- Si llevamos tres días con esto la dispersión.
+- Ya... pero no sé si es la varianza o la desviación típica.
+
+>Toca otra puesta en común. Se suelen reservar momentos para ello, pero si surge algo interesante, es el docente el que decide parar la actividad. Podemos decir que la dispersión es lo concentrados o alejados que están los datos respecto de la media (recordamos los gestos).
+
+Una cosa distinta es cómo midamos esas dispersión. 
+
+
+## ¿A quién elegimos entonces?  {data-background-image="assets/images/basket.jpg" data-background-opacity="0.1"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Entonces… ¿a quién elegimos si queda un minuto y ganamos de 2 puntos? A la más fiable, claro, no queremos pifiarla. 
+
+El entrenador tiene que sacar a Sonia.
+
+:::
+
+::: {.column width="45%"}
+
+Pero… ¿si vamos perdiendo de 8 puntos? Necesitamos un milagro, no vale con no pifiarla. Sacaremos a María, que teniendo la misma media que Sonia, es mucho más irregular. ¡Le puede salir uno de esos partidos en que mete todo!
+
+:::
+::::::::::::::
+
+![](assets/images/disp1.gif){width=30%}
+
+
+## Una propuesta de gestión a distancia  {data-background-image="assets/pc.jpg" data-background-opacity="0.1"}
+
+>Una propuesta de gestión de este tipo de actividades es la siguiente, que es la que hemos seguido en el CPI Val de la Atalaya durante el confinamiento.
+
+
+1. Trabajo autónomo 
+2. Puesta en común (vídeo o vídeoconferencia) 
+3. Reentrega de lo anterior con lo tratado en la videoconferencia y, en su caso, vuelta al punto 1 para continuar con la siguiente parte de la actividad.
+4. Autoevaluación
+
+Lo normal han sido actividades en uno o dos ciclos. Solo en una hubo que dividir el trabajo en tres partes. En la tarea de la dispersión, un buen punto para empezar la segunda parte es después de la comparación visual.
+
+## Dudas durante el trabajo autónomo {data-background-image="assets/pc.jpg" data-background-opacity="0.1"}
+
+El trabajo autónomo se desarrolla durante tres o cuatro días lectivos aproximadamente, con un fin de semana en medio. Claro que hay dudas y entregas incompletas. Hay dos tipos de dudas: ilegítimas y legítimas. En estas últimas se nota que se ha leído la tarea y que se ha trabajado.
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+>:x: Ejemplo de duda ilegítima
+
+A las que contestamos que leáis las instrucciones y seáis concretos: 
+
+_¿Me puedes explicar las tareas 1, 2 y 3?_
+
+:::
+
+::: {.column width="45%"}
+
+>:heavy_check_mark: Ejemplo de duda legítima:
+
+Este ejemplo de duda es lo que esperamos si una de las tareas "no os sale".
+
+_Se me hace imposible encontrar la mejor jugadora, todas tienen la misma media._
+
+:::
+::::::::::::::
+
+## Autoevaluación {data-background-image="assets/pc.jpg" data-background-opacity="0.1"}
+
+Con una herramienta para pasar formularios, les preguntamos, en primer lugar, por lo siguiente:
 
 1. Necesito más tiempo para entender esto o necesito un ejemplo delante para poder hacerlo.
 2. Puedo hacer esto por mi cuenta, pero hay cosas que no entiendo, me falta una explicación y/o estoy cometiendo errores de cálculo.
 3. Puedo hacer esto por mi cuenta sin errores y explicar o mostrar cómo lo resolví.
 4. Puedo hacer esto por mi cuenta sin errores, explicar o mostrar cómo lo resolví, y explicar qué significa mi solución o hacer alguna observación adicional.
 
-Escribe un párrafo donde describas qué dificultad has tenido en la realización de esta tarea
+Estas puntuaciones podrían servir en un esquema de calificación. Si se observan discrepancias con otros instrumentos de evaluación, entrevista con el alumno.
 
-¿Qué he aprendido? Escribe un breve párrafo que describa qué has aprendido.
+## Autoevaluación {data-background-image="assets/pc.jpg" data-background-opacity="0.1"}
 
-¿Qué me gustaría aprender? Escribe un breve párrafo escribiendo algo interesante que hayas observado mientras hacías la tarea y por lo que te preguntas.
+>Preguntas abiertas
 
+- Escribe un párrafo donde describas qué dificultad has tenido en la realización de esta tarea
+- ¿Qué he aprendido? Escribe un breve párrafo que describa qué has aprendido.
+- ¿Qué me gustaría aprender? Escribe un breve párrafo escribiendo algo interesante que hayas observado mientras hacías la tarea y por lo que te preguntas.
+
+El alumnado tiene que aprender a hacer bien estas autoevaluaciones. 
+
+- En las videoconferencias (en el caso de emergencia) se comenta lo que ponen. 
+- No vale: no lo entiendo o al principio mal y luego bien.
 
 ## Tarea a realizar en el taller (actividad D2){data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
 
-- Graba un breve vídeo de 3-5 minutos de duración (no hace falta que aparezcas, es suficiente con la voz) donde comentes algunas de las producciones del alumnado que se comparten en los contenidos del taller. 
+Al hacer este tipo de actividades, la clave es la puesta en común.
+
+- En este [zip]() tienes diversas producciones de alumnos de esta actividad.
+- Graba un breve vídeo de 3-5 minutos de duración (no hace falta que aparezcas, es suficiente con la voz) donde comentes algunas de esas producciones. 
 - Recuerda que suponemos que es un vídeo dirigido a los alumnos que han realizado esas producciones; es decir, una puesta en común.
+- Puede ser, por ejemplo, para poner en común la introducción del problema y la inspección visual de la dispersión.
 - Utiliza el software de captura que quieras, no tiene por qué editarse el vídeo. Si tienes alguna duda técnica al respecto, podemos comentarla en el foro de dudas.
 - Comparte el vídeo a través de la plataforma que quieras (por ejemplo, YouTube, de manera privada, si lo deseas) y pon la dirección del vídeo en la entrega.
 
 
 
-
 # D3: Dos tipos de actividades sobre gráficos estádisticos {data-background-image="assets/images/stats.jpg" data-background-opacity="0.18"}
 
-## Contenidos del D3
+## Contenidos del D3 (gráficos estadísticos) {data-background-image="assets/images/stats.jpg" data-background-opacity="0.1"}
 
 - [¿Qué pasa con este gráfico?]
 - [Gráficos que se revelan lentamente]
@@ -490,9 +734,17 @@ Elige uno de los dos tipos de actividades y entrega un documento pdf
 
 Batanero, C., & Godino, J. D. (2003). _Estocástica y su didáctica para maestros_. Departamento de Didáctica de las Matemáticas. Universidad de Granada. [Enlace.](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf)
 
+Cai, J. (2003). What research tells us about teaching mathematics through problem solving. Research and issues in teaching mathematics through problem solving, 241-254.
+
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
 
+## {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
+
+Gaulin, C. (2001). Tendencias actuales de la resolución de problemas. _Sigma, 19_, 51-63. [Enlace](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
+
 Hunter, C. (2018). Alike and Different: Which One Doesn’t Belong? and More. _Vector, 60_(1), 17–20. 
+
+Ricart, M., Beltrán-Pellicer, P., Estrada, A. (2019). Actividad scaffolding en geometría para desarrollar habilidades de argumentación y clasificación en futuros maestros de Educación Infantil. Investigación en Educación Matemática XXIII (pp. 503-512). [Enlace.](https://tierradenumeros.com/publication/201909-seiem-wodb/201909-seiem-wodb.pdf)
 
 
 ## Créditos {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
