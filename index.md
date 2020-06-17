@@ -766,7 +766,7 @@ Elige uno de los dos tipos de actividades y entrega un documento pdf
 
 ## Una reflexión para terminar {data-background-image="assets/ocean.jpg" data-background-opacity="0.1"}
 
->La enseñanza _a través_ de la resolución de problemas va más allá de la estadística. Me gustaría terminar con esta cita de Pierce y Chick (2011) :
+>La enseñanza _a través_ de la resolución de problemas va mucho más allá de la estadística. Me gustaría terminar con esta cita de Pierce y Chick (2011) :
 
 Beliefs about teaching statistics may also be influenced by beliefs about statistics itself (including its relationship to mathematics) and about teaching more generally. For example, if teachers teach mathematics in a decontextualised way then they may use a similar approach in statistics, perhaps practising procedures first before giving “application” examples with a weak context as window-dressing. Beliefs may also be influenced by the extent to which teachers see the value and use of statistics, including its real-world relevance. 
 
