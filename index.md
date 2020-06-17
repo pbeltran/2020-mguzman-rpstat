@@ -762,6 +762,16 @@ Elige uno de los dos tipos de actividades y entrega un documento pdf
 :::
 ::::::::::::::
 
+# Más allá de la estadística {data-background-image="assets/ocean.jpg" data-background-opacity="0.2"}
+
+## Una reflexión para terminar {data-background-image="assets/ocean.jpg" data-background-opacity="0.1"}
+
+>La enseñanza _a través_ de la resolución de problemas va más allá de la estadística. Me gustaría terminar con esta cita de Pierce y Chick (2011) :
+
+Beliefs about teaching statistics may also be influenced by beliefs about statistics itself (including its relationship to mathematics) and about teaching more generally. For example, if teachers teach mathematics in a decontextualised way then they may use a similar approach in statistics, perhaps practising procedures first before giving “application” examples with a weak context as window-dressing. Beliefs may also be influenced by the extent to which teachers see the value and use of statistics, including its real-world relevance. 
+
+Similarly, mathematics teachers who do not strongly value group work, but who feel pressure to conduct it, may believe that statistics lessons afford this opportunity more than other topics.
+
 
 # Créditos y referencias {data-background-image="assets/credits.jpg" data-background-opacity="0.1"}
 
@@ -778,6 +788,8 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 Gaulin, C. (2001). Tendencias actuales de la resolución de problemas. _Sigma, 19_, 51-63. [Enlace](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
 
 Hunter, C. (2018). Alike and Different: Which One Doesn’t Belong? and More. _Vector, 60_(1), 17–20. 
+
+Pierce R., Chick H. (2011) Teachers’ Beliefs About Statistics Education. In: Batanero C., Burrill G., Reading C. (eds) _Teaching Statistics in School Mathematics-Challenges for Teaching and Teacher Education. New ICMI Study Series_, vol 14. Springer, Dordrecht
 
 Ricart, M., Beltrán-Pellicer, P., Estrada, A. (2019). Actividad scaffolding en geometría para desarrollar habilidades de argumentación y clasificación en futuros maestros de Educación Infantil. Investigación en Educación Matemática XXIII (pp. 503-512). [Enlace.](https://tierradenumeros.com/publication/201909-seiem-wodb/201909-seiem-wodb.pdf)
 
