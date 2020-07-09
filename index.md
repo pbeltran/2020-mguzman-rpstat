@@ -26,8 +26,8 @@ description: Materiales distribuidos bajo licencia CC-BY-SA-4.0
 > Se trata de explorar una propuesta virtual que, con sus limitaciones evidentes, intenta ser coherente con un enfoque de enseñanza y aprendizaje a través de la resolución de problemas.
 
 1. Esta introducción, que continúa exponiendo brevemente qué es esto del _a través_ de la resolución de problemas.
-2. Una actividad sobre dispersión, donde la tarea a completar es grabar un vídeo de 3-5 minutos.
-3. ¿Cuál es el que no encaja? Aquí la tarea consiste en diseñar un WODB, proponerlo en el foro y contestar, por lo menos, a cuatro compañeros.
+2. ¿Cuál es el que no encaja? Aquí la tarea consiste en diseñar un WODB, proponerlo en el foro y contestar, por lo menos, a cuatro compañeros.
+3. Una actividad sobre dispersión, donde la tarea a completar es grabar un vídeo de 3-5 minutos.
 4. Charlas de aula sobre gráficos estadísticos: qué pasa con este gráfico y gráficos que se revelan poco a poco. Aquí hay que elegir uno de los tipos de actividad para hacer la tarea, que consiste en entregar un pequeño documento.
 
 
