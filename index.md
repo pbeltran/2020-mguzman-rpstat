@@ -558,7 +558,7 @@ Al hacer este tipo de actividades, la clave es la puesta en común. Por eso, la 
 
 
 
-# D3: Dos tipos de actividades sobre gráficos estádisticos {data-background-image="assets/images/stats.jpg" data-background-opacity="0.18"}
+# D3: Dos tipos de actividades sobre gráficos estadísticos {data-background-image="assets/images/stats.jpg" data-background-opacity="0.18"}
 
 ## Contenidos del D3 (gráficos estadísticos) {data-background-image="assets/images/stats.jpg" data-background-opacity="0.1"}
 
