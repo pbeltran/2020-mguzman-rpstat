@@ -211,7 +211,7 @@ _Nota: para entendernos, son sucesos simples._
 ## Tarea a realizar en el taller (actividad D1){data-background-image="assets/pc.jpg" data-background-opacity="0.18"}
 
 1. Diseña un WODB sobre estadística (diagramas de barras, de dispersión, distribuciones, lo que quieras) ayudándote de la tabla que hemos comentado.
-2. Abre un tema en el foro de la actividad, donde saludes y adjuntes la imagen de tu WODB. Procura echar un vistazo a las que ya hay puestas para evitar repeticiones.
+2. Abre un tema en el foro de la actividad, donde saludes y adjuntes la imagen de tu WODB. Procura echar un vistazo a las que ya hay puestas para evitar repeticiones. Hemos puesto el 23 de julio como fecha para esto, por requerir interacción.
 3. Responde en el foro, al menos, a cuatro compañeros, proponiendo una razón para algún elemento de su WODB (intentando que sea distinta de las ya expuestas, o con otro lenguaje). 
 
 
@@ -553,7 +553,7 @@ Al hacer este tipo de actividades, la clave es la puesta en común. Por eso, la 
 - Utiliza el software de captura que quieras.
 - No tienes que editar el vídeo para que quede más profesional.
 - Si tienes alguna duda técnica al respecto, podemos comentarla en el foro de dudas.
-- Comparte el vídeo a través de la plataforma que quieras (por ejemplo, YouTube, de manera privada, si lo deseas). 
+- Comparte el vídeo a través de la plataforma que quieras (por ejemplo, YouTube, de manera oculta, si lo deseas). 
 - Pon la dirección del vídeo en el campo de texto de la entrega.
 
 
